@@ -8,4 +8,5 @@ You cannot break anything, so don't be afraid.
 Put your name here:
 - Olivia Smith
 - Julia Damerow and her cat
-- Kathryn Pruitt
+- Kathryn Pruitt with cats Henry and Apollo
+- 
