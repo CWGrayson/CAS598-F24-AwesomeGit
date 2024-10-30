@@ -7,3 +7,4 @@ You cannot break anything, so don't be afraid.
 
 Put your name here:
 - Julia Damerow
+- and her cat
