@@ -6,5 +6,5 @@ You cannot break anything, so don't be afraid.
 ## First commit
 
 Put your name here:
-- Julia Damerow
+- Julia Damerow and her cat
 - Kathryn Pruitt
